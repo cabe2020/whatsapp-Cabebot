@@ -8,7 +8,7 @@
 <a href="https://github.com/cabe2020"><img title="Author" src="https://img.shields.io/badge/Autor-Cabe-red"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/cabe2020/whatsapp-bot"><img title="Rating" src="https://www.codefactor.io/repository/github/cabe2020/whatsapp-bot"></a> 
+<a href="https://www.codefactor.io/repository/github/cabe2020/whatsapp-bot"><img title="Rating" src="https://img.shields.io/badge/Codefactor-A%2B-green"></a>
 </p>
 </p>
 </p>
