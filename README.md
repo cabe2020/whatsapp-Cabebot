@@ -2,13 +2,13 @@
 <img src="https://avatars1.githubusercontent.com/u/52680168?s=60&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-CabeBot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-CabeBot" src="https://img.shields.io/badge/-Whatsapp%20CabeBot-green"></a>
 </p>
 <p align="center">
 <a href="https://github.com/cabe2020"><img title="Author" src="https://img.shields.io/badge/Autor-Cabe-red"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/cabe2020/whatsapp-bot"><img title="Rating" src="https://www.codefactor.io/repository/github/cabe2020/whatsapp-bot"></a>
 </p>
 </p>
 </p>
@@ -16,14 +16,14 @@
 <a href="https://paypal.me/cabegus?locale.x=es_XC"><img title="Donar" src="https://img.shields.io/badge/Donar-Paypal-blue"></a>
 </p>
 <p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
+<a href="https://www.instagram.com/cabe.gus/"><img title="Followers" src="https://img.shields.io/badge/Seguir-Instagram-ff69b4"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <div align="center">
 <details>
- <summary>🥟 Help me!</summary>
+ <summary>🥟 Ayudame!</summary>
  
  [Trakteer](https://trakteer.id/Cabeguss-wuzfc)
  
