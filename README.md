@@ -17,10 +17,6 @@
 </p>
 <p align="center">
 <a href="https://www.instagram.com/cabe.gus/"><img title="Followers" src="https://img.shields.io/badge/Seguir-Instagram-ff69b4"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-</p>
 <div align="center">
 <details>
  <summary>🥟 Ayudame!</summary>
@@ -158,15 +154,15 @@ pls dont remove my github link:)
 | Banned user|✅|
 
 
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
+## Que hacer
+ - Agregar descargador de medios
+ - Agregar más función
+ - Más refactorización
  
 ---
 
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+## Solución de problemas
+Asegúrese de que todas las dependencias necesarias estén instaladas: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
 
 Fix Stuck on linux, install google chrome stable: 
 ```bash
@@ -174,7 +170,6 @@ Fix Stuck on linux, install google chrome stable:
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
-## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
+## Gracias A
+- [ArugaZ](https://github.com/ArugaZ)
+
