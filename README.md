@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://avatars1.githubusercontent.com/u/52680168?s=60&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-CabeBot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
@@ -20,17 +20,16 @@
 <details>
  <summary>🥟 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [Trakteer](https://trakteer.id/Cabeguss-wuzfc)
  
 </details>
 
-bantu kontribusi dengan cara pull request atau request di issues, makasi
-[My Whatsapp](https://wa.me/6281290142115?text=aruga?)
+ayudar a contribuir extrayendo solicitudes o solicitudes sobre problemas, gracias
 </div>
 
 ## Getting Started
 
-This project require NodeJS v12.
+Este proyecto requiere NodeJS v12.
 
 ### Install
 Clone this project
